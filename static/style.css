@@ -167,7 +167,7 @@ p {
 }
 .header-ad-small {
   display: flex;
-  padding-bottom: 5px;
+  margin: 0.5rem;
 }
 .header-ad-small img {
   max-width: 830px;
